@@ -1,0 +1,27 @@
+.blue {
+  color: blue;
+}
+
+.black {
+  color: black;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.white {
+  color: white;
+}
+
+.street-style {
+  font-family: 'Grime Slime', sans-serif;
+  text-transform: uppercase;
+}
+
+.gangster-theme {
+  background-color: black;
+  border: 2px solid yellow;
+}
+
+/* Additional styles can be added below */
